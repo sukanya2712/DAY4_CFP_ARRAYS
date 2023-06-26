@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            problem10.findOddEven();
+            //PROBLEMS :: 
+            //problem10.findOddEven();
             //problem1.array();
             //problem2.reversearray();
             //problem3.sumofelement();
@@ -18,6 +19,8 @@
             //problem11.sorting();
             //problem12.problem12();
             //problem13.add();
+            //problem14.duplicate();
+            problem15.sumof();
         }
     }
 }
